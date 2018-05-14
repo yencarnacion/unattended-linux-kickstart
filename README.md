@@ -64,9 +64,9 @@ virsh start ubuntu1.example.com
 ```
 
 ## Other notes
-If a different hostname is desired, remember to change to the
+If a different hostname is desired, remember to change the
 hostname in the ks.cfg file and the .sh file.  Also, remember 
-to change disk name.
+to change the disk name.
 
 ## Notes for the future
 Remember for centos
