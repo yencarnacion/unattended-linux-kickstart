@@ -24,7 +24,7 @@ limitations under the License.
 
 1. Step 1
 ```sh
-$ sudo ./ubuntu-18_04.sh
+$ sudo ./go-ubuntu-18_04.sh
 ```
 - creates ubuntu 18.04 (bionic) virtual machine with:
 ```
