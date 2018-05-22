@@ -43,6 +43,8 @@ $ virsh net-dhcp-leases default
 $ sudo virsh domiflist ubuntu1.example.com
 $ arp -e 
 $ arp -an
+# ip neighbor
+$ ip n
 ```
 
 ## Commands to Delete VM when done
